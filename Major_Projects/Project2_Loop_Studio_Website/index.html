@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LoopStudio Website : Project 2</title>
+    <link rel="stylesheet" href="./main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&display=swap"
+      rel="stylesheet"
+    />
+    <script src="./js/script.js" defer></script>
+  </head>
+  <body>
+    <!-- hero section -->
+    <section id="hero">
+      <!-- hero container -->
+      <div class="container max-w-6xl mx-auto px-6 py-12">
+        <!-- menu contaienr -->
+        <nav class="flex items-center justify-between font-bold text-white">
+          <!-- logo -->
+          <img src="./images/logo.svg" alt="logo" />
+          <!-- menu -->
+          <div class="hidden h-10 font-alata md:flex md:space-x-8">
+            <div class="group">
+              <a href="#">About</a>
+              <div
+                class="mx-2 group-hover:border-b group-hover:border-blue-50"
+              ></div>
+            </div>
+            <div class="group">
+              <a href="#">Careers</a>
+              <div
+                class="mx-2 group-hover:border-b group-hover:border-blue-50"
+              ></div>
+            </div>
+            <div class="group">
+              <a href="#">Events</a>
+              <div
+                class="mx-2 group-hover:border-b group-hover:border-blue-50"
+              ></div>
+            </div>
+            <div class="group">
+              <a href="#">Products</a>
+              <div
+                class="mx-2 group-hover:border-b group-hover:border-blue-50"
+              ></div>
+            </div>
+            <div class="group">
+              <a href="#">Support</a>
+              <div
+                class="mx-2 group-hover:border-b group-hover:border-blue-50"
+              ></div>
+            </div>
+          </div>
+          <!-- hamburger button -->
+          <div class="md:hidden">
+            <button
+              id="menu-btn"
+              type="button"
+              class="z-40 block hamburger md:hidden focus:outline-none"
+            >
+              <span class="hamburger-top"></span>
+              <span class="hamburger-middle"></span>
+              <span class="hamburger-bottom"></span>
+            </button>
+          </div>
+        </nav>
+        <!-- Mobile Menu -->
+        <div
+          id="menu"
+          class="absolute top-0 bottom-0 left-0 hidden flex-col self-end w-full min-h-screen py-1 pt-40 pl-12 space-y-3 text-lg text-white uppercase bg-black"
+        >
+          <a href="#" class="hover:text-pink-500">About</a>
+          <a href="#" class="hover:text-pink-500">Careers</a>
+          <a href="#" class="hover:text-pink-500">Events</a>
+          <a href="#" class="hover:text-pink-500">Products</a>
+          <a href="#" class="hover:text-pink-500">Support</a>
+        </div>
+        <div
+          class="max-w-lg mt-32 mb-32 p-4 font-sans text-4xl text-white uppercase border-2 md:p-10 md:m-32 md:mx-0 md:text-6xl"
+        >
+          Impressive Experiences That Deliver
+        </div>
+      </div>
+    </section>
+
+    <!-- feature section -->
+    <section id="feature">
+      <!-- feature container -->
+      <div
+        class="relative container flex flex-col max-w-6xl mx-auto my-32 px-6 text-gray-900 md:flex-row md:px-0"
+      >
+        <!-- image -->
+        <img
+          src="./images/desktop/image-interactive.jpg"
+          alt="desktop-image-interactive"
+        />
+
+        <!-- text container -->
+        <div
+          class="top-48 pr-0 bg-white md:absolute md:right-0 md:py-20 md:pl-20"
+        >
+          <h2
+            class="max-w-lg mt-10 mb-6 font-sans text-4xl text-center text-gray-900 uppercase md:text-5xl md:mt-0 md:text-left"
+          >
+            The leader in interactive VR
+          </h2>
+          <p class="max-w-md text-center md:text-left">
+            Founded in 2011, Loopstudios has been producing world-class virtual
+            reality projects for some of the best companies around the globe.
+            Our award-winning creations have transformed businesses through
+            digital experiences that bind to their brand.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Creations section -->
+    <section id="creations">
+      <!-- creations container -->
+      <div class="container max-w-6xl mx-auto my-32 px-6 text-gray-900 md:px-0">
+        <!-- creation header -->
+        <div class="flex justify-center mb-20 md:justify-between">
+          <h2 class="text-4xl text-center uppercase md:text-left md:text-5xl">
+            Our Creations
+          </h2>
+          <!-- button -->
+          <button class="hidden btn md:block">See All</button>
+        </div>
+        <!-- items container -->
+        <div class="item-container">
+          <!-- item 1 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-deep-earth.jpg"
+              alt="image-deep-earth"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-deep-earth.jpg"
+              alt="image-deep-earth"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>Deep Earth</h5>
+          </div>
+
+          <!-- item 2 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-night-arcade.jpg"
+              alt="image-night-arcade"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-night-arcade.jpg"
+              alt="image-night-arcade"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>Night Arcade</h5>
+          </div>
+
+          <!-- item 3 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-soccer-team.jpg"
+              alt="image-soccer-team"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-soccer-team.jpg"
+              alt="image-soccer-team"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>Soccer Team VR</h5>
+          </div>
+
+          <!-- item 4 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-grid.jpg"
+              alt="image-grid"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-grid.jpg"
+              alt="image-grid"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>The Grid</h5>
+          </div>
+        </div>
+
+        <!-- item container 2 -->
+        <div class="item-container mt-10">
+          <!-- item 1 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-from-above.jpg"
+              alt="image-from-above"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-from-above.jpg"
+              alt="image-from-above"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>From Up Above VR</h5>
+          </div>
+
+          <!-- item 2 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-pocket-borealis.jpg"
+              alt="image-pocket-borealis"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-pocket-borealis.jpg"
+              alt="image-pocket-borealis"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>Pocket Borealis</h5>
+          </div>
+
+          <!-- item 3 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-curiosity.jpg"
+              alt="image-curiosity"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-curiosity.jpg"
+              alt="image-curiosity"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>The Curiosity</h5>
+          </div>
+
+          <!-- item 4 -->
+          <div class="group item">
+            <!-- desktop image -->
+            <img
+              src="./images/desktop/image-fisheye.jpg"
+              alt="image-fisheye"
+              class="hidden w-full duration-200 md:block group-hover:scale-110"
+            />
+            <!-- mobile image -->
+            <img
+              src="./images/mobile/image-fisheye.jpg"
+              alt="image-fisheye"
+              class="w-full md:hidden"
+            />
+            <!-- item gradient -->
+            <div class="item-gradient"></div>
+            <!-- item text -->
+            <h5>Make It Fisheye</h5>
+          </div>
+        </div>
+        <!-- bottom button container -->
+        <div class="flex justify-center mt-10 md:hidden">
+          <button class="btn w-full md:hidden">See All</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- footer -->
+    <footer class="bg-black">
+      <!-- container -->
+      <div class="container max-w-6xl py-10 mx-auto">
+        <!-- footer flex container -->
+        <div
+          class="flex flex-col items-center mb-8 space-y-6 md:flex-row md:space-y-0 md:justify-between md:items-start"
+        >
+          <!-- menu and logo container -->
+          <div
+            class="flex flex-col items-center space-y-8 md:items-start md:space-y-4"
+          >
+            <div class="h-8">
+              <img src="./images/logo.svg" alt="logo" class="w-44 md:ml-3" />
+            </div>
+            <!-- menu conatiner -->
+            <div
+              class="flex flex-col items-center space-y-4 font-bold text-white md:flex-row md:space-y-0 md:space-x-6 md:ml-3"
+            >
+              <!-- item 1 -->
+              <div class="h-10 group">
+                <a href="#">About</a>
+                <div
+                  class="mx-2 group-hover:border-b group-hover:border-blue-50"
+                ></div>
+              </div>
+              <!-- item 2 -->
+              <div class="h-10 group">
+                <a href="#">Careers</a>
+                <div
+                  class="mx-2 group-hover:border-b group-hover:border-blue-50"
+                ></div>
+              </div>
+              <!-- item 3 -->
+              <div class="h-10 group">
+                <a href="#">Events</a>
+                <div
+                  class="mx-2 group-hover:border-b group-hover:border-blue-50"
+                ></div>
+              </div>
+              <!-- item 4 -->
+              <div class="h-10 group">
+                <a href="#">Products</a>
+                <div
+                  class="mx-2 group-hover:border-b group-hover:border-blue-50"
+                ></div>
+              </div>
+              <!-- item 5 -->
+              <div class="h-10 group">
+                <a href="#">Support</a>
+                <div
+                  class="mx-2 group-hover:border-b group-hover:border-blue-50"
+                ></div>
+              </div>
+            </div>
+          </div>
+          <!-- social and copy container -->
+          <div
+            class="flex flex-col items-start justify-between space-y-4 text-gray-500"
+          >
+            <!-- icons container -->
+            <div
+              class="flex items-center justify-center space-x-4 mx-auto md:mx-0 md:justify-end"
+            >
+              <!-- icon 1 -->
+              <div class="h-8 group">
+                <a href="#">
+                  <img
+                    src="./images/icon-facebook.svg"
+                    alt="icon-facebook"
+                    class="h-6"
+                  />
+                </a>
+              </div>
+              <!-- icon 2 -->
+              <div class="h-8 group">
+                <a href="#">
+                  <img
+                    src="./images/icon-twitter.svg"
+                    alt="icon-twitter"
+                    class="h-6"
+                  />
+                </a>
+              </div>
+              <!-- icon 3 -->
+              <div class="h-8 group">
+                <a href="#">
+                  <img
+                    src="./images/icon-pinterest.svg"
+                    alt="icon-pinterest"
+                    class="h-6"
+                  />
+                </a>
+              </div>
+              <!-- icon 4 -->
+              <div class="h-8 group">
+                <a href="#">
+                  <img
+                    src="./images/icon-instagram.svg"
+                    alt="icon-instagram"
+                    class="h-6"
+                  />
+                </a>
+              </div>
+            </div>
+
+            <!-- copy -->
+            <div class="font-bold">
+              &copy; 2023 Safwan Shaikh. All Rights Reserved
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
