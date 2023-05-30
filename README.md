@@ -16,8 +16,7 @@ https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/fdfe6b50-0ae
 
     2. PRICING CARD
     
-    ![mini_project-2](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/46835150-8d75-417d-87c1-25118e8a0585) 
-    
+![image](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/7b7afca9-e56a-4a8c-aa54-b7eb35838c81)    
     
     3. PRODUCT MODAL
     4. IMAGE GALLERY 
