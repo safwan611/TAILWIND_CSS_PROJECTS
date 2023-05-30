@@ -9,6 +9,7 @@
     6. BOOKMARK MANAGER WEBISTE
    
 --- MINI PROJECTS 🔥
+
     1. EMAIL SUBSCRIBER
     
 https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/fdfe6b50-0ae9-447a-b46c-e4ff0306efe3
