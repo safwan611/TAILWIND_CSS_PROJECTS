@@ -16,9 +16,18 @@ https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/db28c0f9-a04
 https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/e894cd94-4b90-4247-8a87-9a8ea9521f83
     
     4. TESTIMONIAL GRID WEBSITE
-    5. FYLO WEBSITE
+
+![major_Project-4](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/2d0bf886-8c19-4c64-a288-6226f65abe43)
+        
+    5. FYLO WEBSITE [ Light & Dark Mode ]
+    
+https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/888418c7-22b6-43b4-a470-8dc9de1e85de
+  
     6. BOOKMARK MANAGER WEBISTE
-   
+    
+https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/fa97fffd-2121-4186-a35d-1f18f5eb25c8
+
+
 --- ​🇲​​🇮​​🇳​​🇮​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​
  ![fire](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/f63c35a4-4f76-4d0b-9c48-62eb60b5b3de)
 
