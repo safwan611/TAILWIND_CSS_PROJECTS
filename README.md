@@ -6,9 +6,14 @@
     
 https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/a76ee593-4ae8-4585-b8ec-d78594fa46ba
    
-    
     2. LOOP STUDIO WEBSITE
+    
+https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/db28c0f9-a044-408f-ba70-d55a092a3485
+    
     3. SHORTLY WEBSITE
+    
+    
+    
     4. TESTIMONIAL GRID WEBSITE
     5. FYLO WEBSITE
     6. BOOKMARK MANAGER WEBISTE
