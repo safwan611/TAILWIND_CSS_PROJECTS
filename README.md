@@ -1,6 +1,6 @@
 # TAILWIND_CSS_PROJECTS
 
---- MAJOR PROJECTS ![fire](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/f63c35a4-4f76-4d0b-9c48-62eb60b5b3de)
+--- 🅼🅰🅹🅾🆁 🅿🆁🅾🅹🅴🅲🆃🆂 ![fire](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/f63c35a4-4f76-4d0b-9c48-62eb60b5b3de)
 
     1. CLIPBOARD WEBSITE
     
