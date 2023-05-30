@@ -1,6 +1,6 @@
 # TAILWIND_CSS_PROJECTS
 
---- MAJOR PROJECTS 🔥
+--- MAJOR PROJECTS ![fire](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/f63c35a4-4f76-4d0b-9c48-62eb60b5b3de)
 
     1. CLIPBOARD WEBSITE
     
@@ -18,7 +18,7 @@ https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/e894cd94-4b9
     5. FYLO WEBSITE
     6. BOOKMARK MANAGER WEBISTE
    
---- MINI PROJECTS 🔥
+--- MINI PROJECTS ![fire](https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/f63c35a4-4f76-4d0b-9c48-62eb60b5b3de)
 
     1. EMAIL SUBSCRIBER
     
