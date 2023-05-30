@@ -12,7 +12,7 @@ https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/db28c0f9-a04
     
     3. SHORTLY WEBSITE
     
-    
+https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/e894cd94-4b90-4247-8a87-9a8ea9521f83
     
     4. TESTIMONIAL GRID WEBSITE
     5. FYLO WEBSITE
