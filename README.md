@@ -4,7 +4,8 @@
 
     1. CLIPBOARD WEBSITE
     
-Uploading major_project_1_video.mp4…   
+https://github.com/safwan611/TAILWIND_CSS_PROJECTS/assets/116253577/a76ee593-4ae8-4585-b8ec-d78594fa46ba
+   
     
     2. LOOP STUDIO WEBSITE
     3. SHORTLY WEBSITE
